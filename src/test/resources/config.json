@@ -1,0 +1,58 @@
+[
+  {
+    "request": {
+      "uri": "/hr/regist/insertRegist",
+      "method":"get"
+    },
+    "response": {
+      "json":{
+        "code": 200,
+        "userid" : "userid123456",
+        "data": [
+          {
+            "key1":"value",
+            "key2":"value2"
+          },
+          {
+            "key3":"value3",
+            "key4":"value4"
+          }
+        ]
+      }
+    }
+  }, {
+  "request": {
+    "uri": "/hr/regist/editRegist"
+  },
+  "response": {
+    "json":{
+      "code": 200,
+      "msg" : "修改成功！！！"
+    }
+  }
+}, {
+  "request": {
+    "uri": "/hr/regist/findRegist"
+  },
+  "response": {
+    "json":    {
+      "gender": "12",
+      "notifyEntryTime": "2021-01-06",
+      "userEmail": "1213@qq.com",
+      "userMobile": "18537159532",
+      "userName": "testname1",
+      "wxAccount": "123kg1"
+    }
+  }
+}, {
+  "request": {
+    "uri": "/hr/regist/deleteRegist"
+  },
+  "response": {
+    "json":{
+      "code": 200,
+      "msg" : "删除成功！！！"
+    }
+  }
+}
+]
