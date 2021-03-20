@@ -4,9 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @program: cuke
  * @description: 缓存
- * @author: shixing
+ * @author: czy
  * @create: 2021-01-10 16:59
  **/
 public class WMCache {

@@ -4,9 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @program: cuke
  * @description: 断言
- * @author: shixing
+ * @author: czy
  * @create: 2021-01-10 17:01
  **/
 public class WMAssert {
