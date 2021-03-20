@@ -1,7 +1,6 @@
 package com.api.util;
 
 /**
- * @program: cuke
  * @description:
  * @author: czy
  * @create: 2021-01-13 16:49
