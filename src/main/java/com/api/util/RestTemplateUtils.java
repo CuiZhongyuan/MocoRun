@@ -11,8 +11,8 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Map;
 
 /**
- * @author lgl
- * @date 2020/1/15 15:19
+ * @author czy
+ * @date 2020/3/20 10:19
  */
 public class RestTemplateUtils {
     private static final RestTemplate REST_TEMPLATE;
