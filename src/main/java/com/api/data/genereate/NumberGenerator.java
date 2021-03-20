@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
  * 随机数生成器
  *
  * @author niaoshuai
- * @author shixing
+ * @author czy
  */
 public class NumberGenerator {
 

@@ -9,7 +9,7 @@ import java.util.Vector;
 
 /**
  * @description: 身份证号生成
- * @author: shixing
+ * @author: czy
  * @create: 2020-03-27 10:14
  **/
 public class CardIDGenerator {

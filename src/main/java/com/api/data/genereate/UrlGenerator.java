@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 /**
  * @program: data-generate
  * @description: url
- * @author: shixing
+ * @author: czy
  * @create: 2020-04-14 10:35
  **/
 public class UrlGenerator {

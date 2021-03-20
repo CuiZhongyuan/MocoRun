@@ -261,7 +261,7 @@ public class CSVFileUtil {
     }
 
     public static void main(String[] args) {
-        List<String> lines = CSVFileUtil.getLines("/media/zgq/data/code/git.youlu.com/dev-test-team-project/api-test/swaggerTest/wanma-cuke-bdd-test/shixing/new-cuke/wm_cuke/src/test/resources/upload/2020-05-06-16-16-23testCsv.csv", "UTF-8");
+        List<String> lines = CSVFileUtil.getLines("/media/zgq/data/code/git.youlu.com/dev-test-team-project/api-test/swaggerTest/wanma-cuke-bdd-test/czy/new-cuke/wm_cuke/src/test/resources/upload/2020-05-06-16-16-23testCsv.csv", "UTF-8");
         List<Map<String, String>> mapList = CSVFileUtil.parseList(lines);
         System.out.println(Arrays.toString(mapList.toArray()));
 
